@@ -1,0 +1,7 @@
+C:\Users\Kahlil\source\repos\Assignment6\MoneyConversion\bin\MoneyConversion.dll.config
+C:\Users\Kahlil\source\repos\Assignment6\MoneyConversion\bin\MoneyConversion.dll
+C:\Users\Kahlil\source\repos\Assignment6\MoneyConversion\bin\MoneyConversion.pdb
+C:\Users\Kahlil\source\repos\Assignment6\MoneyConversion\obj\Release\MoneyConversion.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\Assignment6\MoneyConversion\obj\Release\MoneyConversion.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6\MoneyConversion\obj\Release\MoneyConversion.dll
+C:\Users\Kahlil\source\repos\Assignment6\MoneyConversion\obj\Release\MoneyConversion.pdb

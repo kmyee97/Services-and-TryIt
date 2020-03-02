@@ -1,0 +1,7 @@
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\bin\WordFilter.dll.config
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\bin\WordFilter.dll
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\bin\WordFilter.pdb
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\obj\Release\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\obj\Release\WordFilter.dll
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\obj\Release\WordFilter.pdb
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\obj\Release\WordFilter.csprojAssemblyReference.cache

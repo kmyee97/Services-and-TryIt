@@ -1,0 +1,30 @@
+C:\Users\Kahlil\source\repos\WordFilter\secondService\bin\secondService.dll.config
+C:\Users\Kahlil\source\repos\WordFilter\secondService\bin\secondService.dll
+C:\Users\Kahlil\source\repos\WordFilter\secondService\bin\secondService.pdb
+C:\Users\Kahlil\source\repos\WordFilter\secondService\obj\Debug\secondService.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\WordFilter\secondService\obj\Debug\secondService.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\WordFilter\secondService\obj\Debug\secondService.dll
+C:\Users\Kahlil\source\repos\WordFilter\secondService\obj\Debug\secondService.pdb
+C:\Users\Kahlil\source\repos\WordFilter\secondService\bin\Newtonsoft.Json.dll
+C:\Users\Kahlil\source\repos\WordFilter\secondService\bin\Newtonsoft.Json.xml
+C:\Users\Kahlil\source\repos\WordFilter\secondService\obj\Debug\secondService.csproj.CopyComplete
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\secondService.dll.config
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\secondService.dll
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\secondService.pdb
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\Newtonsoft.Json.dll
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\Newtonsoft.Json.xml
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Debug\secondService.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Debug\secondService.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Debug\secondService.csproj.CopyComplete
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Debug\secondService.dll
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Debug\secondService.pdb
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\bin\secondService.dll.config
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\bin\secondService.dll
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\bin\secondService.pdb
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\bin\Newtonsoft.Json.dll
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\bin\Newtonsoft.Json.xml
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\obj\Debug\secondService.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\obj\Debug\secondService.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\obj\Debug\secondService.csproj.CopyComplete
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\obj\Debug\secondService.dll
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\secondService\obj\Debug\secondService.pdb

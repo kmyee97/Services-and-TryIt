@@ -1,0 +1,20 @@
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\bin\Assignment6.dll.config
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\bin\Assignment6.dll
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\bin\Assignment6.pdb
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\obj\Debug\Assignment6.dll
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\bin\Newtonsoft.Json.dll
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\bin\Newtonsoft.Json.xml
+C:\Users\Kahlil\source\repos\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CopyComplete
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\bin\Assignment6.dll.config
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\bin\Assignment6.dll
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\bin\Assignment6.pdb
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\bin\Newtonsoft.Json.dll
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\bin\Newtonsoft.Json.xml
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\obj\Debug\Assignment6.csproj.CopyComplete
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\obj\Debug\Assignment6.dll
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\Assignment6\obj\Debug\Assignment6.pdb

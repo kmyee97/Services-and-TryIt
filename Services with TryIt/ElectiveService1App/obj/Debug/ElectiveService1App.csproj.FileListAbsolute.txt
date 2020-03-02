@@ -1,0 +1,10 @@
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\bin\Debug\ElectiveService1App.exe.config
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\bin\Debug\ElectiveService1App.exe
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\bin\Debug\ElectiveService1App.pdb
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\obj\Debug\ElectiveService1App.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\obj\Debug\ElectiveService1App.Form1.resources
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\obj\Debug\ElectiveService1App.Properties.Resources.resources
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\obj\Debug\ElectiveService1App.csproj.GenerateResource.cache
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\obj\Debug\ElectiveService1App.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\obj\Debug\ElectiveService1App.exe
+C:\Users\Kahlil\source\repos\Assignment6\ElectiveService1App\obj\Debug\ElectiveService1App.pdb

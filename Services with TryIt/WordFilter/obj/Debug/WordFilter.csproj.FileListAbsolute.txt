@@ -1,0 +1,21 @@
+C:\Users\Kahlil\source\repos\WordFilter\WordFilter\bin\WordFilter.dll.config
+C:\Users\Kahlil\source\repos\WordFilter\WordFilter\bin\WordFilter.dll
+C:\Users\Kahlil\source\repos\WordFilter\WordFilter\bin\WordFilter.pdb
+C:\Users\Kahlil\source\repos\WordFilter\WordFilter\obj\Debug\WordFilter.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\WordFilter\WordFilter\obj\Debug\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\WordFilter\WordFilter\obj\Debug\WordFilter.dll
+C:\Users\Kahlil\source\repos\WordFilter\WordFilter\obj\Debug\WordFilter.pdb
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\bin\WordFilter.dll.config
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\bin\WordFilter.dll
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\bin\WordFilter.pdb
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\obj\Debug\WordFilter.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\obj\Debug\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\obj\Debug\WordFilter.dll
+C:\Users\Kahlil\source\repos\Assignment6\WordFilter\obj\Debug\WordFilter.pdb
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\WordFilter\bin\WordFilter.dll.config
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\WordFilter\bin\WordFilter.dll
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\WordFilter\bin\WordFilter.pdb
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\WordFilter\obj\Debug\WordFilter.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\WordFilter\obj\Debug\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\WordFilter\obj\Debug\WordFilter.dll
+C:\Users\Kahlil\source\repos\Assignment6_Kahlil_Yee\Services with TryIt\WordFilter\obj\Debug\WordFilter.pdb

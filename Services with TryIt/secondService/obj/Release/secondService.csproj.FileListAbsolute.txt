@@ -1,0 +1,10 @@
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\secondService.dll.config
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\secondService.dll
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\secondService.pdb
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\Newtonsoft.Json.dll
+C:\Users\Kahlil\source\repos\Assignment6\secondService\bin\Newtonsoft.Json.xml
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Release\secondService.csprojAssemblyReference.cache
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Release\secondService.csproj.CoreCompileInputs.cache
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Release\secondService.csproj.CopyComplete
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Release\secondService.dll
+C:\Users\Kahlil\source\repos\Assignment6\secondService\obj\Release\secondService.pdb
